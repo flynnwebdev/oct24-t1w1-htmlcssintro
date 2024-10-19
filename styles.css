@@ -1,0 +1,29 @@
+p {
+    color: red;
+}
+
+.coolStyles {
+    background-color: lightblue;
+    color: purple;
+}
+
+.big {
+    font-size: 2.5rem;
+}
+
+#featureHeading {
+    text-decoration: underline;
+}
+
+li:nth-child(3n+1) {
+    background-color: darkseagreen;
+}
+
+div img {
+    width: 50vw;
+}
+
+div {
+    width: 70%;
+    border: 2px solid red;
+}
